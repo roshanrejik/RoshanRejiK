@@ -16,7 +16,7 @@ Skills:  NODE / EXPRESS / MONGODB / REACT / JS / HTML / CSS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=roshanrejik&show_icons=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/roshanrejik)  
+
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=roshanrejik)  
 
